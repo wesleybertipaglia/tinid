@@ -1,0 +1,13 @@
+{
+  "name": "tinid",
+  "version": "1.0.0",
+  "description": "A tinid is a tiny id generator for ts.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
