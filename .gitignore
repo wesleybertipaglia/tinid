@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.sw?
+
+# Optional: test coverage or temp
+coverage/
+tmp/
