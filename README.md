@@ -20,7 +20,7 @@ npm install @wesleybertipaglia/tinid
 ## Usage
 
 ```ts
-import { tinid } from 'tinid';
+import { tinid } from "@wesleybertipaglia/tinid";
 
 // Default usage
 const id = tinid(); // e.g., 'a8B3kLx9'
