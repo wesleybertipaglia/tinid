@@ -14,7 +14,7 @@ TinID is a tiny ID generator for TypeScript — simple, fast, and customizable.
 ## Installation
 
 ```bash
-npm install tinid
+npm install @wesleybertipaglia/tinid
 ```
 
 ## Usage
